@@ -17,4 +17,10 @@ PS: making another change to test osxkeychain to eliminate need to type
     
     had to download the credential helper
 
+Hello!
+    
+Wooo! I searched for this directory in the TERMINAL!! I feel awesome
+
+Ashley 6/12/2013
+
    
